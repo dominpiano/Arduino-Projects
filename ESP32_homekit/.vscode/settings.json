@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "characteristics.h": "c",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
